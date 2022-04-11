@@ -1,0 +1,9 @@
+.nav-item {
+    text-align: end;
+}
+
+.scontent {
+    border-radius: 20px;
+    width: 100%;
+    height: 80px;
+}
